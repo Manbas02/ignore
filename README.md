@@ -1,2 +1,2 @@
 # ignore
-ignorar
+# ignorar descrip, descargar
